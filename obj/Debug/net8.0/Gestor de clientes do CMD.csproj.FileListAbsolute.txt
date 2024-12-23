@@ -1,0 +1,14 @@
+D:\Curso C# Udemy\Gestor de clientes do CMD\bin\Debug\net8.0\Gestor de clientes do CMD.exe
+D:\Curso C# Udemy\Gestor de clientes do CMD\bin\Debug\net8.0\Gestor de clientes do CMD.deps.json
+D:\Curso C# Udemy\Gestor de clientes do CMD\bin\Debug\net8.0\Gestor de clientes do CMD.runtimeconfig.json
+D:\Curso C# Udemy\Gestor de clientes do CMD\bin\Debug\net8.0\Gestor de clientes do CMD.dll
+D:\Curso C# Udemy\Gestor de clientes do CMD\bin\Debug\net8.0\Gestor de clientes do CMD.pdb
+D:\Curso C# Udemy\Gestor de clientes do CMD\obj\Debug\net8.0\Gestor de clientes do CMD.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso C# Udemy\Gestor de clientes do CMD\obj\Debug\net8.0\Gestor de clientes do CMD.AssemblyInfoInputs.cache
+D:\Curso C# Udemy\Gestor de clientes do CMD\obj\Debug\net8.0\Gestor de clientes do CMD.AssemblyInfo.cs
+D:\Curso C# Udemy\Gestor de clientes do CMD\obj\Debug\net8.0\Gestor de clientes do CMD.csproj.CoreCompileInputs.cache
+D:\Curso C# Udemy\Gestor de clientes do CMD\obj\Debug\net8.0\Gestor de clientes do CMD.dll
+D:\Curso C# Udemy\Gestor de clientes do CMD\obj\Debug\net8.0\refint\Gestor de clientes do CMD.dll
+D:\Curso C# Udemy\Gestor de clientes do CMD\obj\Debug\net8.0\Gestor de clientes do CMD.pdb
+D:\Curso C# Udemy\Gestor de clientes do CMD\obj\Debug\net8.0\Gestor de clientes do CMD.genruntimeconfig.cache
+D:\Curso C# Udemy\Gestor de clientes do CMD\obj\Debug\net8.0\ref\Gestor de clientes do CMD.dll
